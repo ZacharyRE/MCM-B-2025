@@ -43,7 +43,7 @@
   
   2. **自由行游客收益**
 
-<img width="400" alt="Screenshot 2025-01-25 at 12 23 28 AM" src="https://github.com/user-attachments/assets/e23c2fcd-ca77-4db0-b068-d6af3701fe1e" />
+<img width="300" alt="Screenshot 2025-01-25 at 12 23 28 AM" src="https://github.com/user-attachments/assets/e23c2fcd-ca77-4db0-b068-d6af3701fe1e" />
 
   *P（l）:选择自由行的游客比例。*
   
@@ -59,11 +59,7 @@
   - C0: 固定成本
   - γ：每位游客导致的额外成本（如废物管理、资源消耗）。
 
-### 整体收益模型：
 
-带入logistic 的人口预测增长函数之后，整体收入模型：
-
-<img width="800" alt="Screenshot 2025-01-25 at 12 54 19 AM" src="https://github.com/user-attachments/assets/091ab4c4-6e0f-4a63-8114-044f05475989" />
 
 ### 动态因子分析：
 **1. 邮轮游客消费因子：**
@@ -89,4 +85,8 @@
 ### 加入动态因子之后每个收入的模型：
 
 <img width="600" alt="Screenshot 2025-01-25 at 1 12 18 AM" src="https://github.com/user-attachments/assets/d9d022d9-2a9d-4821-86f0-b80d0ecfbfca" />
+
+### 最终公式：
+
+<img width="1624" alt="Screenshot 2025-01-25 at 1 14 38 AM" src="https://github.com/user-attachments/assets/4d54b022-c90e-4a8c-87d5-bce420c7c628" />
 
