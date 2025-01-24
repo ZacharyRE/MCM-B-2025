@@ -22,7 +22,7 @@
 
 ## 收入模型：
 
-**Main Idea** 将收入进行分解，拆分成多个收入组合。
+**Main Idea**： 将收入进行分解，拆分成多个收入组合。
 
 <img width="400" alt="Screenshot 2025-01-25 at 12 17 56 AM" src="https://github.com/user-attachments/assets/16849acf-2da7-4ab2-a2f0-6af98a9164e9" />
 
@@ -30,16 +30,22 @@
 - **R(Land)**: 自由行游客收益
 - **R(Tax)**: 税收
 
+### 模型收益细分：
+
 接下来对每个收益进行进一步定义+细分：
 
   1. **邮轮游客收益**
 
 <img width="400" alt="Screenshot 2025-01-25 at 12 22 03 AM" src="https://github.com/user-attachments/assets/2f71ecf9-61b6-4ec5-ad4c-c06ff381569e" />
 
+  *P(c): 选择邮轮的游客比例。*
+  
   2. **自由行游客收益**
 
 <img width="400" alt="Screenshot 2025-01-25 at 12 23 28 AM" src="https://github.com/user-attachments/assets/e23c2fcd-ca77-4db0-b068-d6af3701fe1e" />
 
+  *P（l）:选择自由行的游客比例。*
+  
   3. **游客附加税收**
 
 <img width="200" alt="Screenshot 2025-01-25 at 12 24 08 AM" src="https://github.com/user-attachments/assets/5f7b5d35-ea0b-4e87-9708-6d8da96cc6a4" />
@@ -52,3 +58,21 @@
   - C0: 固定成本
   - γ：每位游客导致的额外成本（如废物管理、资源消耗）。
 
+### 整体收益模型：
+
+带入logistic 的人口预测增长函数之后，整体收入模型：
+
+<img width="800" alt="Screenshot 2025-01-25 at 12 54 19 AM" src="https://github.com/user-attachments/assets/091ab4c4-6e0f-4a63-8114-044f05475989" />
+
+### 动态因子分析：
+**1. 邮轮游客消费因子：**
+
+<img width="200" alt="Screenshot 2025-01-25 at 1 04 22 AM" src="https://github.com/user-attachments/assets/9dba5a9f-5229-4e46-9668-44c28331fcaa" />
+
+**2. 自由行游客消费因子：**:
+
+<img width="200" alt="Screenshot 2025-01-25 at 1 04 36 AM" src="https://github.com/user-attachments/assets/0a0698fa-04d6-480d-a706-61cb1d9e46c0" />
+
+**3. 动态税率**:
+
+<img width="200" alt="Screenshot 2025-01-25 at 1 04 44 AM" src="https://github.com/user-attachments/assets/772fdbba-d79e-4058-ae49-28e5c76d681f" />
