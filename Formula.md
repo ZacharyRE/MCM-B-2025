@@ -42,5 +42,5 @@
 
   3. **游客附加税收**
 
-<img width="400" alt="Screenshot 2025-01-25 at 12 24 08 AM" src="https://github.com/user-attachments/assets/5f7b5d35-ea0b-4e87-9708-6d8da96cc6a4" />
+<img width="200" alt="Screenshot 2025-01-25 at 12 24 08 AM" src="https://github.com/user-attachments/assets/5f7b5d35-ea0b-4e87-9708-6d8da96cc6a4" />
 
