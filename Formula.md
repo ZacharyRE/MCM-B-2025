@@ -4,10 +4,10 @@
 *（Logistic 模型 + 外部冲击模型）*
 
 ### Logistic 模型公式：
-<img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/9806e52b-01ca-45fb-88a8-c4b4e2440565/3b59df5a-77ce-431a-9a42-9b3b5f545faa/Screenshot_2025-01-24_at_11.11.42_PM.png" alt="Logistic模型公式" width="600">
+<img width="300" alt="Screenshot 2025-01-24 at 11 30 03 PM" src="https://github.com/user-attachments/assets/e615ffcf-38de-41f9-a2d5-f47e49abb3d6" />
 
 ### 修正模型公式：
-<img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/9806e52b-01ca-45fb-88a8-c4b4e2440565/14823a11-0127-44a5-adfd-aa7301369bb9/Screenshot_2025-01-24_at_11.12.03_PM.png" alt="修正模型公式" width="600">
+<img width="300" alt="Screenshot 2025-01-24 at 11 30 23 PM" src="https://github.com/user-attachments/assets/c17f47f8-8655-467c-a19e-748413e9dd38" />
 
 **模型说明：**
 - Logistic 模型解释了人口的稳定增长。
