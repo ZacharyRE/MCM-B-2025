@@ -35,3 +35,12 @@
   1. **邮轮游客收益**
 
 <img width="400" alt="Screenshot 2025-01-25 at 12 22 03 AM" src="https://github.com/user-attachments/assets/2f71ecf9-61b6-4ec5-ad4c-c06ff381569e" />
+
+  2. **自由行游客收益**
+
+<img width="400" alt="Screenshot 2025-01-25 at 12 23 28 AM" src="https://github.com/user-attachments/assets/e23c2fcd-ca77-4db0-b068-d6af3701fe1e" />
+
+  3. **游客附加税收**
+
+<img width="400" alt="Screenshot 2025-01-25 at 12 24 08 AM" src="https://github.com/user-attachments/assets/5f7b5d35-ea0b-4e87-9708-6d8da96cc6a4" />
+
