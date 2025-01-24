@@ -1,4 +1,4 @@
-## 人口增长模型
+# 人口增长模型
 
 ### 修正的 Logistic 模型:
 *（Logistic 模型 + 外部冲击模型）*
@@ -21,7 +21,7 @@
 
 ---
 
-## 收入模型：
+# 收入模型：
 
 **Main Idea**： 将收入进行分解，拆分成多个收入组合。
 
@@ -89,4 +89,13 @@
 ### 最终公式：
 
 <img width="1624" alt="Screenshot 2025-01-25 at 1 14 38 AM" src="https://github.com/user-attachments/assets/4d54b022-c90e-4a8c-87d5-bce420c7c628" />
+
+---
+
+# 综合环境影响模型
+*Integrated Environmental Impact Model, IEIM*
+
+### 目标函数：
+
+<img width="400" alt="Screenshot 2025-01-25 at 1 50 08 AM" src="https://github.com/user-attachments/assets/455fd9ff-ff32-4698-9ebd-355c89bd95fc" />
 
