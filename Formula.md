@@ -99,3 +99,15 @@
 
 <img width="400" alt="Screenshot 2025-01-25 at 1 50 08 AM" src="https://github.com/user-attachments/assets/455fd9ff-ff32-4698-9ebd-355c89bd95fc" />
 
+1. **对于E（Transport）：**
+   
+<img width="500" alt="Screenshot 2025-01-25 at 1 51 44 AM" src="https://github.com/user-attachments/assets/235615ea-1b71-4b61-ac2e-be6ad1428b98" />
+
+2. **对于E（Resource）**：
+   
+<img width="500" alt="Screenshot 2025-01-25 at 1 52 21 AM" src="https://github.com/user-attachments/assets/bf921c5a-ed83-4ba4-a501-352699da3310" />
+
+3. **对于E（Waste）**
+
+
+
