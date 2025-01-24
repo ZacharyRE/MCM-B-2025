@@ -109,5 +109,9 @@
 
 3. **对于E（Waste）**
 
+<img width="500" alt="Screenshot 2025-01-25 at 1 57 40 AM" src="https://github.com/user-attachments/assets/069f821c-a395-4e9d-8fa9-7168be6bccd3" />
+
+
+
 
 
