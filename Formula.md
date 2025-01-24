@@ -14,6 +14,7 @@
 - 外部冲击模型解释了如 2022 年疫情等突发事件对人口增长的影响。
 
 **参考文献：**
+
 [点击此处阅读原文-Logistic](https://www.sciencedirect.com/science/article/abs/pii/S0160738309000954?casa_token=S7tpN1HQracAAAAA:eKfmhV37bzxkM91U59ydC0fQry0OpFcJFzpzgOwTGbL-siOvDENziEEf7kVP9I03OH2wqx8vQQ)
 
 [点击此处阅读原文-外部冲击模型](https://www.sciencedirect.com/science/article/abs/pii/S0167223176800036)
