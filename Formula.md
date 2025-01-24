@@ -19,6 +19,7 @@
 
 [点击此处阅读原文-外部冲击模型](https://www.sciencedirect.com/science/article/abs/pii/S0167223176800036)
 
+---
 
 ## 收入模型：
 
@@ -69,10 +70,23 @@
 
 <img width="200" alt="Screenshot 2025-01-25 at 1 04 22 AM" src="https://github.com/user-attachments/assets/9dba5a9f-5229-4e46-9668-44c28331fcaa" />
 
+<img width="364" alt="Screenshot 2025-01-25 at 1 10 11 AM" src="https://github.com/user-attachments/assets/500b9f52-2c80-4465-b1c0-1d688216c69b" />
+
+
+
 **2. 自由行游客消费因子：**:
 
 <img width="200" alt="Screenshot 2025-01-25 at 1 04 36 AM" src="https://github.com/user-attachments/assets/0a0698fa-04d6-480d-a706-61cb1d9e46c0" />
 
+<img width="426" alt="Screenshot 2025-01-25 at 1 10 42 AM" src="https://github.com/user-attachments/assets/4394d325-3c0e-46f3-9dbb-289256d8d04d" />
+
 **3. 动态税率**:
 
 <img width="200" alt="Screenshot 2025-01-25 at 1 04 44 AM" src="https://github.com/user-attachments/assets/772fdbba-d79e-4058-ae49-28e5c76d681f" />
+<img width="360" alt="Screenshot 2025-01-25 at 1 11 10 AM" src="https://github.com/user-attachments/assets/27395899-bb6a-4686-b902-529f942f7a51" />
+
+
+### 加入动态因子之后每个收入的模型：
+
+<img width="600" alt="Screenshot 2025-01-25 at 1 12 18 AM" src="https://github.com/user-attachments/assets/d9d022d9-2a9d-4821-86f0-b80d0ecfbfca" />
+
