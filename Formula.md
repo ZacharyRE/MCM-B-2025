@@ -44,3 +44,11 @@
 
 <img width="200" alt="Screenshot 2025-01-25 at 12 24 08 AM" src="https://github.com/user-attachments/assets/5f7b5d35-ea0b-4e87-9708-6d8da96cc6a4" />
 
+  4. **基础设施和环保投资**
+
+<img width="200" alt="Screenshot 2025-01-25 at 12 32 37 AM" src="https://github.com/user-attachments/assets/47eaecf8-1f62-4fac-8f3c-6b5c6d58f7da" />
+
+
+  - C0: 固定成本
+  - γ：每位游客导致的额外成本（如废物管理、资源消耗）。
+
