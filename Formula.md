@@ -119,13 +119,17 @@
 
 ### 最终函数：
 
-<img width="750" alt="Screenshot 2025-01-26 at 11 11 15 AM" src="https://github.com/user-attachments/assets/35cbfec6-b2c1-4adc-8fa2-5ff8c6e9fba1" />
+<img width="650" alt="Screenshot 2025-01-26 at 11 55 46 AM" src="https://github.com/user-attachments/assets/925cb9c7-fbb7-467a-91e1-fd931a5c3074" />
 
 
-### 参考文献：
+### 参考文献：(每个文献对应一个公式，作为 supporting document)
+
 [分项环境成本模型](https://pubs.acs.org/doi/10.1021/es101316v)
 
 [交通相关碳排放](https://documents1.worldbank.org/curated/pt/826921468766156728/pdf/Transportation-and-CO2-emissions-flexing-the-link-a-path-for-the-World-Bank.pdf)
 
-[资源消耗的环境影响]
+[资源消耗的环境影响](https://w.tboake.com/2013/EF_Reading_Assignment_1of2.pdf)
+
+[废弃物处理的环境影响](https://journals.sagepub.com/doi/full/10.1177/0734242x12437569)
+
 
