@@ -145,7 +145,7 @@
 
 <img width="227" alt="Screenshot 2025-01-26 at 5 07 14 PM" src="https://github.com/user-attachments/assets/50cee3c4-9390-4f06-b6cd-9bc769b888bf" />
 
-- m 的取值一般是1.5-2.5
+- **m 的取值一般是1.5-2.5**
 
 **2.住房成本模型**：
 
