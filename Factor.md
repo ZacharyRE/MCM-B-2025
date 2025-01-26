@@ -1,6 +1,6 @@
 | 参数     | 典型取值范围           | 说明                                   | 英文名称                 | 相关文献                                                                 |
 |----------|-----------------------|--------------------------------------|--------------------------|---------------------------------------------------------------------------|
-| \(K\)    | \(10,000 - 1,000,000\) | 环境承载力                             | Carrying Capacity        | Hall, C. M. (2010). Crisis events in tourism: Subjects of crisis in tourism. *Current Issues in Tourism*, 13(5), 401-417. |
-| \(N_0\)  | \(500 - 5,000\)        | 初始人口或游客数量                     | Initial Population       |                                                                           |
-| \(r\)    | \(0.01 - 0.2\)         | 内在增长率                             | Intrinsic Growth Rate    |                                                                           |
-| \(F(t)\) | 动态函数（如指数衰减） | 外部流失量，表示由于外部因素导致的减少 | External Flow-Out Function |                                                                           |
+| \(K\)    | 10,000 - 1,000,000 | 环境承载力                             | Carrying Capacity        | Hall, C. M. (2010). Crisis events in tourism: Subjects of crisis in tourism. *Current Issues in Tourism*, 13(5), 401-417. |
+| N0  | 500 - 5,000       | 初始人口或游客数量                     | Initial Population       |                                                                           |
+| r   | 0.01 - 0.2         | 内在增长率                             | Intrinsic Growth Rate    |                                                                           |
+| F(t) | 动态函数（如指数衰减） | 外部流失量，表示由于外部因素导致的减少 | External Flow-Out Function |                                                                           |
