@@ -40,7 +40,7 @@
 
 
 
-#### **Visitor Number (\(N(t)\))**
+#### **Visitor Number N(t)**
 1. **意义**：每日游客数量，受到承载力和政策限制影响。
 2. **取值范围**：5,000 - 20,000 人/日。
 3. **相关文献**：City and Borough of Juneau (2023). *Cruise Ship Passenger Impact Report*.  
@@ -48,11 +48,19 @@
 
 
 
-#### **Per Capita Spending (\(R_{\text{avg}}\))**
-1. **意义**：每位游客的平均消费金额，包括交通、住宿、饮食和购物。
-2. **取值范围**：\$100 - \$300/人。
-3. **相关文献**：City and Borough of Juneau (2023). *Tourism Economics Overview*.  
-   - 提到邮轮游客的日均消费范围通常在 \$150 - \$200。
+#### **Cruise Ship Visitor Revenue R(cruise)**
+1. **意义**：邮轮游客的平均消费金额，包括岸上观光、购物、餐饮等支出。
+2. **取值范围**：\$100 - \$200/人。
+3. **相关文献**：City and Borough of Juneau (2023). *Cruise Ship Passenger Impact Report*.  
+   - 提到邮轮游客的日均消费金额约为 \$150，但受船公司控制范围的限制，其支出通常低于自由行游客。
+
+
+
+#### **Independent Traveler Revenue R(land)**
+1. **意义**：自由行游客的平均消费金额，包括住宿、交通、餐饮、购物和娱乐支出。
+2. **取值范围**：\$200 - \$400/人。
+3. **相关文献**：City and Borough of Juneau (2023). *Independent Traveler Spending Overview*.  
+   - 提到自由行游客的平均消费显著高于邮轮游客，特别是在住宿和高端体验项目上，自由行游客通常消费 \$250 - \$350。
 
 
 
@@ -64,7 +72,7 @@
 
 
 
-#### **Operational Cost (\(C(t)\))**
+#### **Operational Cost C(t)**
 1. **意义**：每天的运营成本，包括基础设施维护、交通、废弃物处理等。
 2. **取值范围**：\$50,000 - \$500,000/日。
 3. **相关文献**：City and Borough of Juneau (2023). *Infrastructure Impact Report*.  
@@ -72,7 +80,7 @@
 
 
 
-#### **Environmental Cost (E(t)**
+#### **Environmental Cost E(t)**
 1. **意义**：每天因游客活动产生的环境影响成本（如碳排放、垃圾处理）。
 2. **取值范围**：\$10,000 - \$200,000/日。
 3. **相关文献**：City and Borough of Juneau (2023). *Environmental Impact Study*.  
