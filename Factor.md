@@ -102,7 +102,7 @@
 
 # 3: 综合环境影响模型
 
-### **Average Travel Distance (\(d_{\text{avg}}\))**
+### **Average Travel Distance d(average)**
 1. **意义**：游客平均旅行距离，用于估算碳排放量。
 2. **取值范围**：100 - 2,000 公里/人。
 3. **相关文献**：City and Borough of Juneau (2023). *Tourism Carbon Footprint Report*.  
@@ -110,7 +110,7 @@
 
 
 
-### **Unit Emission Factor (\(e_{\text{unit}}\))**
+### **Unit Emission Factor e(unit)**
 1. **意义**：单位距离的碳排放因子，表示每公里每位游客的平均碳排放量。
 2. **取值范围**：0.1 - 0.5 公斤CO₂/公里。
 3. **相关文献**：City and Borough of Juneau (2023). *Tourism Carbon Footprint Report*.  
@@ -118,7 +118,7 @@
 
 
 
-### **Local Emission Factor (\(e_{\text{local}}\))**
+### **Local Emission Factor e(local)**
 1. **意义**：本地旅游活动产生的平均碳排放量。
 2. **取值范围**：5 - 50 公斤CO₂/人。
 3. **相关文献**：City and Borough of Juneau (2023). *Environmental Impact Study*.  
@@ -126,7 +126,7 @@
 
 
 
-### **Technology Reduction Rate (\(\delta_{\text{tech}}\))**
+### **Technology Reduction Rate **
 1. **意义**：由于清洁技术应用降低的排放比例。
 2. **取值范围**：0.1 - 0.5。
 3. **相关文献**：City and Borough of Juneau (2023). *Sustainable Tourism Strategy Report*.  
@@ -134,7 +134,7 @@
 
 
 
-### **Cost of Activity (\(c_i\))**
+### **Cost of Activity ci**
 1. **意义**：单个活动（如观光、购物等）产生的环境成本。
 2. **取值范围**：\$5 - \$50/人。
 3. **相关文献**：City and Borough of Juneau (2023). *Activity Impact Assessment Report*.  
@@ -142,14 +142,14 @@
 
 
 
-### **Participation Rate (\(r_i\))**
+### **Participation Rate ri**
 1. **意义**：参与特定活动的游客比例。
 2. **取值范围**：0.1 - 0.7。
 3. **相关文献**：City and Borough of Juneau (2023). *Tourism Activity Participation Report*.  
    - 提到邮轮游客更倾向于选择短时间、高强度的活动，自由行游客参与率较低。
 
 
-### **Local Environmental Impact Factor (\(\gamma\))**
+### **Local Environmental Impact Factor γ**
 1. **意义**：本地环境影响因子，综合表示非活动因素对环境的总体影响。
 2. **取值范围**：\$10 - \$100/人。
 3. **相关文献**：City and Borough of Juneau (2023). *Comprehensive Environmental Impact Report*.  
