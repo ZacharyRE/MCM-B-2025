@@ -143,7 +143,7 @@
 ### 目标函数拆解：
 **1.住房拥挤成本模型**：
 
-<img width="257" alt="Screenshot 2025-01-26 at 5 07 14 PM" src="https://github.com/user-attachments/assets/50cee3c4-9390-4f06-b6cd-9bc769b888bf" />
+<img width="227" alt="Screenshot 2025-01-26 at 5 07 14 PM" src="https://github.com/user-attachments/assets/50cee3c4-9390-4f06-b6cd-9bc769b888bf" />
 
 **2.住房成本模型**：
 
@@ -155,6 +155,13 @@
 
 **4.游客不良行为模型**
 
-<img width="268" alt="Screenshot 2025-01-26 at 6 23 36 PM" src="https://github.com/user-attachments/assets/1e90ed6d-bd2f-4295-9151-f6dbc75f389c" />
+<img width="220" alt="Screenshot 2025-01-26 at 6 23 36 PM" src="https://github.com/user-attachments/assets/1e90ed6d-bd2f-4295-9151-f6dbc75f389c" />
+
+
+### 综合社会负担模型：（带入）
+
+<img width="500" alt="Screenshot 2025-01-26 at 6 26 02 PM" src="https://github.com/user-attachments/assets/e1518e3a-54a5-413b-bc7e-f8ecf65d7eb1" />
+
+
 
 
