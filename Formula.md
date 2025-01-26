@@ -122,5 +122,10 @@
 <img width="750" alt="Screenshot 2025-01-26 at 11 11 15 AM" src="https://github.com/user-attachments/assets/35cbfec6-b2c1-4adc-8fa2-5ff8c6e9fba1" />
 
 
+### 参考文献：
+[分项环境成本模型](https://pubs.acs.org/doi/10.1021/es101316v)
 
+[交通相关碳排放](https://documents1.worldbank.org/curated/pt/826921468766156728/pdf/Transportation-and-CO2-emissions-flexing-the-link-a-path-for-the-World-Bank.pdf)
+
+[资源消耗的环境影响]
 
