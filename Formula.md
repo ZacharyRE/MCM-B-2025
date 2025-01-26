@@ -151,7 +151,7 @@
 
 **3.基础设施压力模型**
 
-<img width="200" alt="Screenshot 2025-01-26 at 6 23 13 PM" src="https://github.com/user-attachments/assets/ac0de205-f5fe-4796-bbf9-5dd3067a084a" />
+<img width="250" alt="Screenshot 2025-01-26 at 6 23 13 PM" src="https://github.com/user-attachments/assets/ac0de205-f5fe-4796-bbf9-5dd3067a084a" />
 
 **4.游客不良行为模型**
 
