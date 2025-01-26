@@ -139,3 +139,12 @@
 ### 目标函数：
 
 <img width="679" alt="Screenshot 2025-01-26 at 4 54 23 PM" src="https://github.com/user-attachments/assets/03d195d1-aa28-4578-90f1-cfb768ae77f6" />
+
+### 目标函数拆解：
+**1.住房拥挤成本模型**：
+
+<img width="257" alt="Screenshot 2025-01-26 at 5 07 14 PM" src="https://github.com/user-attachments/assets/50cee3c4-9390-4f06-b6cd-9bc769b888bf" />
+
+**2.住房成本模型**：
+
+<img width="200" alt="Screenshot 2025-01-26 at 5 08 03 PM" src="https://github.com/user-attachments/assets/d28400ad-be81-4d57-9041-427c676822e4" />
