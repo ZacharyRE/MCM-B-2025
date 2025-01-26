@@ -188,4 +188,10 @@
 **4. 推广预算P(t)**
 
 
+# 数据收集
+
+**1. 拥挤成本m**: 1.5-2 
+
+相关论文：*Small, K. A., & Verhoef, E. T. (2007). The economics of urban transportation. Routledge.*
+
 
