@@ -132,4 +132,10 @@
 
 [废弃物处理的环境影响](https://journals.sagepub.com/doi/full/10.1177/0734242x12437569)
 
+---
 
+# 人口增长模型
+
+### 目标函数：
+
+<img width="679" alt="Screenshot 2025-01-26 at 4 54 23 PM" src="https://github.com/user-attachments/assets/03d195d1-aa28-4578-90f1-cfb768ae77f6" />
