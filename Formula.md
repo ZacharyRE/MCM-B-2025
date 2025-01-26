@@ -162,6 +162,16 @@
 
 <img width="500" alt="Screenshot 2025-01-26 at 6 26 02 PM" src="https://github.com/user-attachments/assets/e1518e3a-54a5-413b-bc7e-f8ecf65d7eb1" />
 
+### 参考文献
 
+[住房拥挤模型-非线性](https://d1wqtxts1xzle7.cloudfront.net/61005314/The_Economics_of_Urban_Transportation20191024-2394-b3dsou-libre.pdf?1571926385=&response-content-disposition=inline%3B+filename%3DThe_Economics_of_Urban_Transportation.pdf&Expires=1737891979&Signature=ZbSk6OVCQ1t~EKE3oJHb~v7e8xv7hdOcOx0QKNxSEc15TmG8gS~f-KiC9VrXjd~RqzODs1NxwxCaLPjV4EW6sk2JSG28OCrn7GGptpzUd8GuHPA5cCOmfsY3NuYKXQ83PAOCqBe55Umlb9Tau9rb4QB6z6rEvx2cm5rVIC-PO6aYMmNHSFeEupplnDnLNOAum9XLSl79bL7UGM0VEePXZxEns-1Ups5qD5Hq-nicYLDCf3~m0jHuljGzzcg-GwnXyLjzLgPUfnw01o-WpuvS4m1yc-LLYU5tfOP-vhQLieia5XFafVl~F8790hiFEBcY27ibZ-Bdjj2lbf5fqKTKjA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+
+[住房成本模型](https://www.nber.org/system/files/working_papers/w10124/w10124.pdf)
+
+[基础设施压力模型](https://www.europarc.org/wp-content/uploads/2020/03/A_Tourism_Carrying_Capacity_Indicator_fo.pdf)
+
+[游客不良行为模型](http://repo.lib.sab.ac.lk:8080/xmlui/bitstream/handle/123456789/1641/9780203875872_webpdf-1-19.pdf?sequence=1)
+
+[综合社会负担模型](https://www.mdpi.com/2071-1050/10/12/4384)
 
 
