@@ -2,6 +2,8 @@
 
 **Assumption 1**: The daily number of tourists remains constant during peak seasons.
 
-**Justification 2**: This assumption is based on historical data from Juneau and the Great Barrier Reef, which show steady daily tourist arrivals during high seasons due to pre-booked cruise schedules and accommodation limits.
+**Justification 1**: This assumption is supported by the scheduling of cruise ships and pre-booked accommodations in Juneau, which cap daily tourist numbers. Historical data show consistent visitor peaks during the summer months.
 
-**Assumption 2**: 
+**Assumption 2**: Spending per head is uniform for a particular category of tourist.
+
+**Justification 2**: This assumption is supported by the scheduling of cruise ships and pre-booked accommodations in Juneau, which cap daily tourist numbers. Historical data show consistent visitor peaks during the summer months.
