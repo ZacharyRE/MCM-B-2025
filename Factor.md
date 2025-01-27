@@ -148,5 +148,68 @@
 3. **相关文献**：City and Borough of Juneau (2023). *Comprehensive Environmental Impact Report*.  
    - 估算朱诺市本地居民和游客的环境压力来源。
 
+---
+# 4 社会负担参数
 
+
+#### **Visitor Number N(t)**
+1. **意义**：每日游客数量，是社会负担的核心影响因素。
+2. **取值范围**：5,000 - 20,000 人/日。
+3. **相关文献**：City and Borough of Juneau (2023). *Cruise Ship Passenger Impact Report*.  
+   - 提到 2023 年高峰时期每日游客数量约为 20,000。
+
+
+
+#### **Congestion Coefficient λ**
+1. **意义**：拥挤成本系数，反映每位游客对拥挤的边际影响。
+2. **取值范围**：\$0.1 - \$2.0。
+3. **相关文献**：City and Borough of Juneau (2023). *Infrastructure Impact Study*.  
+   - 提到游客活动对公共设施拥挤成本的影响。
+
+
+
+#### **Congestion Exponent m**
+1. **意义**：拥挤成本非线性指数，表示拥挤负担随游客数量的非线性变化程度。
+2. **取值范围**：1.5 - 2.0。
+3. **相关文献**：City and Borough of Juneau (2023). *Traffic and Tourism Flow Analysis Report*.  
+   - 提到高峰期拥堵成本的非线性变化。
+
+
+
+#### **Housing Supply H(t)**
+1. **意义**：每日可供游客使用的住房总量。
+2. **取值范围**：500 - 2,000 单位。
+3. **相关文献**：City and Borough of Juneau (2023). *Housing and Short-Term Rentals Report*.  
+   - 提到旅游季节性住房供应和需求的变化。
+
+
+#### **Housing Burden Coefficient β**
+1. **意义**：住房压力系数，反映游客对本地住房供需平衡的影响。
+2. **取值范围**：\$10 - \$50/人。
+3. **相关文献**：City and Borough of Juneau (2023). *Housing Impact Assessment Report*.  
+   - 提到住房成本因游客需求而显著增加。
+
+
+
+#### **Infrastructure Cost Ci(t)**
+1. **意义**：基础设施建设或维护成本。
+2. **取值范围**：\$50,000 - \$200,000/日。
+3. **相关文献**：City and Borough of Juneau (2023). *Infrastructure Investment Plan*.  
+   - 提到基础设施的高峰期维护和建设成本。
+
+
+
+#### **Infrastructure Pressure Coefficient αi **
+1. **意义**：基础设施压力系数，表示基础设施维护成本的分摊程度。
+2. **取值范围**：\$0.1 - \$1.0/人。
+3. **相关文献**：City and Borough of Juneau (2023). *Infrastructure Pressure Analysis Report*.  
+   - 提到基础设施维护费用与游客数量的关系。
+
+
+
+#### **Other Social Costs δ**
+1. **意义**：其他社会成本，例如管理成本、居民抗议等的额外支出。
+2. **取值范围**：\$5 - \$15/人。
+3. **相关文献**：City and Borough of Juneau (2023). *Community Tourism and Social Costs Report*.  
+   - 提到朱诺市因居民与游客矛盾导致的社会管理成本增加。
 
