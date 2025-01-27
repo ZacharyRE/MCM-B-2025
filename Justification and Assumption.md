@@ -6,7 +6,7 @@
 
 **Assumption 2: Spending per head is uniform for a particular category of tourist.**
 
-**Justification 2**: This assumption is supported by the scheduling of cruise ships and pre-booked accommodations in Juneau, which cap daily tourist numbers. Historical data show consistent visitor peaks during the summer months.
+**Justification 2**: Cruise tourists and independent travelers tend to follow predictable spending habits because of set costs for tours, accommodations, and dining options.
 
 
 **Assumption 3:Tourist tax revenue is proportional to the number of visitors.**
