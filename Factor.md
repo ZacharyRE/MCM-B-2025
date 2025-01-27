@@ -126,13 +126,6 @@
 
 
 
-### **Technology Reduction Rate **
-1. **意义**：由于清洁技术应用降低的排放比例。
-2. **取值范围**：0.1 - 0.5。
-3. **相关文献**：City and Borough of Juneau (2023). *Sustainable Tourism Strategy Report*.  
-   - 介绍了邮轮公司和交通运营商对清洁技术的使用情况。
-
-
 
 ### **Cost of Activity ci**
 1. **意义**：单个活动（如观光、购物等）产生的环境成本。
